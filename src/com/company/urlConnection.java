@@ -87,7 +87,6 @@ public class urlConnection {
                         JSONObject dateOBJ = on2.getJSONObject("2000-0" + i + "-0" + j + "");
                         System.out.println(dateOBJ);
                     } catch (JSONException e) {
-                     //   e.printStackTrace();
                     }
                 }
 
